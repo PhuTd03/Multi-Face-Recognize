@@ -1,0 +1,1 @@
+app/model/model_weights/final_weights/face_descriptor.pth filter=lfs diff=lfs merge=lfs -text
